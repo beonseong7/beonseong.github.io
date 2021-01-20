@@ -95,9 +95,9 @@ analytics:
 author:
   name             : "Choi Beon Seong"
   avatar           : "/assets/images/my_face.jpg"
-  bio              : "I am an **amazing** person."
-  location         : "Somewhere"
-  email            :
+  bio              : "서원대학교 컴퓨터공학과\n InYourDevice 팀장"
+  location         : "경기도 이천시"
+  email            : "beonseong7@naver.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"

@@ -1,13 +1,44 @@
 ---
 layout: posts
-title:  "으엉ll!"
-date:   2021-01-17 23:13:06 +0900
-categories: jekyll update
+title:  "The Lost Dog"
+date:   2019-06-20 23:13:06 +0900
+categories: Games
 ---
-안녕하세요
-------------
-앞으로 포토폴리오 올릴 공간입니다
-###### 관심없으면 꺼지세요 히히
-흠 뭘쓸까요
+구상
+---
+대학생이 되고 나서 플레이 스토어에 뭔갈 올려보고 싶어서  
+어떤 아이디어로 게임을 만들까 구상하던 중 색조합이란 것을  
+옜날 미술책에서 발견했고   
+이걸로 게임을 만들면 어떨까 싶어서 바로 작업에 착수했다.  
 
-dsffdsv
+<center><img src="\assets\images\LostDog_main.png" alt="LostDog_main" style="zoom:55%;" /></center>
+
+<center><figcaption>▲메인화면</figcaption></center>  
+
+기획
+---
+스토리를 담고있는 캐주얼 모드와 타임어택이 가능한 프리모드로  
+나누어 작업했고 UI와 디자인컨셉은 폴리건아트로 했다.  
+
+<center><img src="\assets\images\LostDog_play.jpg" alt="LostDog_play" style="zoom:40%;" />
+
+<img src="\assets\images\LostDOg_story.png" alt="LostDOg_story" style="zoom:40%;" /></center>
+<center><figcaption>▲플레이 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;▲스토리</figcaption></center>
+같은 색깔의 배리어를 생성하면 벽돌을 부수는 구조로   
+게임이 진행된다.버튼 두개를 슬라이딩 하면  
+두버튼의 색깔을 합치는 방식으로 색조합을 구성했고  
+총 7개의 색깔이 나온다.  
+
+플레이 영상
+---
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BXyJlmAFsTE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>  
+
+만들면서
+---
+처음으로 기획해서 게임을 구성해 시간가는줄 모르고 작업했다.  
+다만, 색깔로 퍼즐을 만든다는게 비슷한 색깔을 피하다보니  
+색깔의 폭이 생각보다 적었고 기획한 것보다 게임이 루즈했다.  
+다음엔 좀더 간단한 룰을 구성해 캐주얼한 느낌을 더 살려볼까한다.  
+
+&nbsp; 첫 대학생활을 마치는 동시에 작업도 하니 힘들긴했지만, 뭐랄까 살아있는 기분?이 들었다. 앞으로는 다양한 기술을 이용해 풍성한 게임을 만들고 싶다.
+
