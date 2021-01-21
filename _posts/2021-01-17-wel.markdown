@@ -1,7 +1,7 @@
 ---
 layout: posts
-title:  "The Lost Dog"
-date:   2019-06-20 23:13:06 +0900
+title:  "The Light"
+date:   2019-12-30 23:13:06 +0900
 categories: Games
 ---
 <br>
