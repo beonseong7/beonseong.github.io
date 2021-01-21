@@ -8,14 +8,13 @@ categories: Games
 
     ⚙️역할:기획,개발
     ⚙️개발환경:Unity5
-    ⚙️개발도구:Blender,Visual Studio
+    ⚙️개발도구:Visual Studio
 
 구상
 ---
-대학생이 되고 나서 플레이 스토어에 뭔갈 올려보고 싶어서  
-어떤 아이디어로 게임을 만들까 구상하던 중 색조합이란 것을  
-옜날 미술책에서 발견했고   
-이걸로 게임을 만들면 어떨까 싶어서 바로 작업에 착수했다.  
+The Lost Dog를 출시하고나서 같이 작업하던 친구가 기획을 조금 수정해서 다른 게임을 만들자고 제안했다.  
+제안한 기획이 나쁘지않았고, 여기서 이기획을 멈추기에는 아쉬운점이 많아 바로 진행했다.  
+
 
 <center><img src="\assets\images\LostDog_main.png" alt="LostDog_main" style="zoom:55%;" /></center>
 
@@ -23,7 +22,7 @@ categories: Games
 
 기획
 ---
-스토리를 담고있는 캐주얼 모드와 타임어택이 가능한 프리모드로  나누어 작업했고 UI디자인컨셉은 폴리건아트로 했다.  
+디자인 컨셉을 정하는것이 가장큰 난제였다.  
 
 <center><img src="\assets\images\LostDog_play.jpg" alt="LostDog_play" style="zoom:40%;" />
 <img src="\assets\images\lost_story1.png" alt="lost_story1" style="zoom:40%;" />

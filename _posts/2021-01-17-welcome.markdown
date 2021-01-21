@@ -12,10 +12,9 @@ categories: Games
 
 구상
 ---
-대학생이 되고 나서 플레이 스토어에 뭔갈 올려보고 싶어서  
-어떤 아이디어로 게임을 만들까 구상하던 중 색조합이란 것을  
-옜날 미술책에서 발견했고   
-이걸로 게임을 만들면 어떨까 싶어서 바로 작업에 착수했다.  
+대학을 진학하고 난후 공식 사이트에 게임을 올리고싶다는 욕구가 생겼고, 어떤식으로 게임을 만들까 구상하던 중 색조합이란걸 생각해냈다.  
+나쁘지 않다 생각해 색조합으로 게임기획의 방향을 잡았다.
+
 
 <center><img src="\assets\images\LostDog_main.png" alt="LostDog_main" style="zoom:55%;" /></center>
 
@@ -23,19 +22,34 @@ categories: Games
 
 기획
 ---
-스토리를 담고있는 캐주얼 모드와 타임어택이 가능한 프리모드로  나누어 작업했고 UI디자인컨셉은 폴리건아트로 했다.  
+게임을 어떻게 디자인할지가 문제였다. 기본적으로 구성해주는 3D만으로도 UI이미지랑 큰 괴리감이 없어야하는게 가장큰 관건이었는데, 디자인 중 폴리건아트라하는 디자인을 보았고 기본3d랑 잘 어울린다 판단해 디자인 컨셉을 폴리건 아트로 잡았다.
 
 <center><img src="\assets\images\LostDog_play.jpg" alt="LostDog_play" style="zoom:40%;" />
 <img src="\assets\images\lost_story1.png" alt="lost_story1" style="zoom:40%;" />
 </center>
 <center><figcaption>▲플레이 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;▲스토리</figcaption></center>
-같은 색깔의 배리어를 생성하면 벽돌을 부수는 구조로   게임이 진행된다.  
-버튼 두개를 슬라이딩 하면  두버튼의 색깔을 합치는 방식으로 색조합을 구성했고  
-총 7개의 색깔이 나온다.  
+
+게임구성은 스토리가 담긴 캐주얼모드와 시간제한이있는 프리모드로 나누었으며,
+같은 색깔의 배리어를 생성하면 벽돌을 부수는 구조로  게임이 진행된다.  
+<center><img src="\assets\images\howtoplay1.png" alt="howtoplay1" style="zoom:40%;" />
+<img src="\assets\images\howtoplay2.png" alt="howtoplay2" style="zoom:40%;" /></center>
+<center><figcaption>▲게임조작설명</figcaption></center>
+버튼 두개를 슬라이딩 하면  두버튼의 색깔을 합치는 방식으로 색조합을 구성했고
+총 7개의 색이 나온다.  
+
+
+제작
+---
+제작 도중, 3d물체가 없어지는 효과가 아무것도 없는것이 너무 허전하다는것을 깨달았다.  
+괜찮은 효과는 없는지 찾던중 blender라는 프로그램을 찾아냈고 해당 프로그램으로 간단하게 물체가 깨지는 효과를 만들어 낼 수 있었다.  
+
+<img src="\assets\images\blender.PNG" alt="blender" style="zoom:50%;" />  
+<center><figcaption>▲파괴효과</figcaption></center>
+
 
 스토리
 ---
-주인과 공놀이를 하던 강아지가 놀다보니 주인을 잃어버렸고,  
+주인과 즐거운 시간을 보내던 강아지가 놀다보니 주인을 잃어버렸고,  
 주인을 찾기위해 여러 곳을 돌아다닌다는 설정을 넣었다.  
 플레이중에 나오는 구체는 공을 의미할려했지만 생각보다 연결점이 없었다
 
