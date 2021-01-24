@@ -12,36 +12,41 @@ categories: Games
 
 구상
 ---
-The Lost Dog를 출시하고나서 같이 작업하던 친구가 기획을 조금 수정해서 다른 게임을 만들자고 제안했다.  
-제안한 기획이 나쁘지않았고, 여기서 이기획을 멈추기에는 아쉬운점이 많아 바로 진행했다.  
+The Lost Dog를 출시하고나서 같이 작업하던 팀원이 기획을 조금 수정해서 다른 게임을 만들자고 제안했다.  
+제안한 기획이 이전 기획에 비해 게임성이 좋았고, 여기서 이기획을 멈추기에는 아쉬운점이 많아 바로 진행했다.  
 
 
-<center><img src="\assets\images\LostDog_main.png" alt="LostDog_main" style="zoom:55%;" /></center>
+<center><img src="\assets\images\light_main.png" alt="light_main" style="zoom:55%;" /></center>
 
-<center><figcaption>▲메인화면</figcaption></center>  
+<center><figcaption>▲시작화면</figcaption></center>  
 
 기획
 ---
-디자인 컨셉을 정하는것이 가장큰 난제였다.  
+이전 게임은 색을 기반으로 만든 게임이어서 구성이 조잡하다는 의견이 나왔고, 이번에는 검은색과 흰색으로만 게임을 구성해서 심플하게 가보기로 했다.
 
-<center><img src="\assets\images\LostDog_play.jpg" alt="LostDog_play" style="zoom:40%;" />
-<img src="\assets\images\lost_story1.png" alt="lost_story1" style="zoom:40%;" />
-</center>
-<center><figcaption>▲플레이 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;▲스토리</figcaption></center>
-같은 색깔의 배리어를 생성하면 벽돌을 부수는 구조로   게임이 진행된다.  
-버튼 두개를 슬라이딩 하면  두버튼의 색깔을 합치는 방식으로 색조합을 구성했고  
-총 7개의 색깔이 나온다.  
+<center><img src="\assets\images\light_particle.png" alt="light_particle" style="zoom:40%;" /></center>
 
-스토리
+<center><figcaption>▲게임 시작</figcaption></center>
+하단에 있는 하얀색바를 조정하여 올라오는 벽돌을 부수는 것으로 게임이 진행된다  
+부수는 벽돌의 위치에따라 다양한 소리가 나며, 게임이 진행 될수록 속도가 빨라진다.  
+
+<center><img src="\assets\images\light_play2.png" alt="light_play2" style="zoom:40%;" />
+<img src="\assets\images\light_play.png" alt="light_play" style="zoom:40%;" /></center>
+
+
+
+<center><figcaption>▲게임 진행</figcaption></center>
+
+제작
 ---
-주인과 공놀이를 하던 강아지가 놀다보니 주인을 잃어버렸고,  
-주인을 찾기위해 여러 곳을 돌아다닌다는 설정을 넣었다.  
-플레이중에 나오는 구체는 공을 의미할려했지만 생각보다 연결점이 없었다
+이전과 같은 효과로 게임을 구성하자 단조로운 게임 구성에는 어울리지 않았고
+방법을 찾던 중, 파티클효과란걸 발견했다.  
+단조로운 게임 구성과 잘 어울렸고 그대로 사용하기로 결정했다.  
 
-<center><img src="\assets\images\story3.png" alt="story3" style="zoom:40%;" /><img src="\assets\images\lost_story2.png" alt="lost_story2" style="zoom:40%;" />
+<center><img src="\assets\images\particle.png" alt="story3" style="zoom:80%;" />
 </center>
 
-<center><figcaption>▲스토리</figcaption></center>
+<center><figcaption>▲파티클 효과</figcaption></center>
 
 플레이 영상
 ---
