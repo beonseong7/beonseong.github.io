@@ -17,8 +17,8 @@ categories: Games
 
 구상
 ---
-기존 게임인 벌레공주,1945와 같은 슈팅게임과 RPG의 파밍요소를 더해서 만들기로 했다.  
-슬슬 게임 데이터를 제대로 다뤄보고 싶었던 참이어서 이 기회에 경험을 쌓을 수 있다고 생각해 해당 구상으로 그대로 진행하기로 찬성했다.
+&nbsp;&nbsp;기존 게임인 벌레공주,1945와 같은 슈팅게임과 RPG의 파밍요소를 더해서 만들기로 했다.  
+&nbsp;&nbsp;슬슬 게임 데이터를 제대로 다뤄보고 싶었던 참이어서 이 기회에 경험을 쌓을 수 있다고 생각해 해당 구상으로 그대로 진행하기로 찬성했다.
 
 
 <center><img src="\assets\images\Terra_main.png" alt="Terra_main" style="zoom:60%;" /></center>
@@ -36,7 +36,7 @@ categories: Games
 &nbsp;제작에 필요한 레시피는 기본적으로 제공되며 재료는 상점을 통해서도 구입할 수있다.
 
 <center><img src="\assets\images\Terra_Upgrade.png" alt="light_play2" style="zoom:60%;" />
-<img src="\assets\images\Terra_store.png" alt="light_play" style="zoom:60%;" /></center>
+<img src="\assets\images\Terra_store.PNG" alt="light_play" style="zoom:60%;" /></center>
 <center><figcaption>▲강화 화면&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;▲상점 화면</figcaption></center>
 &nbsp;&nbsp;현재까지 개발한 게임들은 나의 실력에 맞추어 개발했기에 게임의 분위기가 플래시 게임 수준에 머물러 있었다. 그래서 이번 게임 기획은 기본적인 RPG게임의 틀을 구성하는데에 중점을 두었다.
 &nbsp;&nbsp;다행히도 다른 동아리 분들도 기본적인 게임틀을 구성하는 것을 목표로 잡아서 큰 마찰없이 진행 할 수 있었다.
