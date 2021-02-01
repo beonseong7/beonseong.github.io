@@ -1,0 +1,49 @@
+---
+layout: posts
+title:  "콘텐츠 제작 캠프"
+date:   2020-12-30 23:13:06 +0900
+categories: Movies
+---
+<br>
+
+    ⚙️역할:기획,디자인,개발
+    ⚙️개발환경:Unity5
+    ⚙️개발도구:Visual Studio,blender,metashape
+
+시작
+---
+&nbsp;Terra Core를 어느정도 마무리 지을 쯤 학교에서 3d,vr,xr 제작캠프를 열었다.  
+졸업작품을 위한 지식도 필요했고 평소에 이 분야에 관심이 많았기에 경험할겸 참여했다.  
+
+장소 & 일정
+---
+&nbsp;장소는 서원대학교융복합기술관 실시 되었다. 최근에 만들어진 건물인지 굉장히 깨끗했고, 여러개의 방들이 존재했으며 컴퓨터실,3d스캐너 등이 보였다.
+
+<center><img src="\assets\images\position.png" alt="position" style="zoom:65%;" />&nbsp;&nbsp;<img src="\assets\images\3D_scan.jpg" alt="3D_scan" style="zoom:20%;" /></center>
+<center><figcaption>▲장소&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;▲3D스캐너</figcaption></center>
+&nbsp;오전에는 3d스캔한 내모습을 파일로 만드는 시간을 가졌고, 오후에는 그걸 활용한 vr제작과 원리 설명이 있었다.  
+
+<center><img src="\assets\images\캡처.PNG" alt="캡처" style="zoom:75%;" /></center>
+<center>▲캐릭터로 바꾸는 과정</center>
+&nbsp;&nbsp;강의 시작전에 몸을 스캔하는 시간을 가졌는데 수많은 카메라가 내몸을 스캔한다니 뭔가 묘한 기분이들었지만, 내 모습을 컴퓨터에 옮길수있다는것이 신기했다.  
+
+제작
+---
+&nbsp;어떤식으로 작품을 낼까라는 생각을 하다가, vr가이드가 있다는 느낌으로 영상을 제작하면 어떨까라는 호기심이 들었고, 그대로 작업에 착수했다.  
+
+<center><img src="\assets\images\VR_guide.png" alt="VR_guide" style="zoom: 50%;" /></center>
+
+&nbsp;3d캐릭터를 내맘대로 게임엔진에 집어넣는것이 생각보다 어려웠지만, 다끝나고 자연스럽게 움직이는 내 캐릭터를 보니 재밌었다.
+
+플레이 영상
+---
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fl-FE2J31E8" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+만들면서
+---
+&nbsp; 평소에 관심있던분야라 처음엔 긴장을 많이했지만, 생각보다 간단해서 재밌게 마무리 할수있었다.   
+&nbsp; 졸업작품에 이번에 배운것도 적용시키면 꽤 괜찮은 효과를 낼수있다고 느꼈으며, 다음엔 단순한 영상 녹화가아니라 하나의 게임으로 만들 수 있도록 목표를 잡았다.  
+&nbsp; 이제 데이터를 어떻게 다뤄야하는지 감을 잡았지만, 겨우 하나의 프로젝트를 마무리 했으니 이제부턴 다양한 장르의 게임을 제작하면서 게임을 체계적으로 개발 할 수있도록 목표를 잡았다.  
+<br>
+&nbsp; 어떻게 만들다보니 대상까지 탔다!! 우와아앙
+
